@@ -1,0 +1,14 @@
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\bin\Debug\net8.0\DesafioSistCelular.exe
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\bin\Debug\net8.0\DesafioSistCelular.deps.json
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\bin\Debug\net8.0\DesafioSistCelular.runtimeconfig.json
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\bin\Debug\net8.0\DesafioSistCelular.dll
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\bin\Debug\net8.0\DesafioSistCelular.pdb
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.GeneratedMSBuildEditorConfig.editorconfig
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.AssemblyInfoInputs.cache
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.AssemblyInfo.cs
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.csproj.CoreCompileInputs.cache
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.dll
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\refint\DesafioSistCelular.dll
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.pdb
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\DesafioSistCelular.genruntimeconfig.cache
+D:\01.PLATAFORMA CURSOS ONLINE\17. Net Developer Avanade\04.Programacao Orientada a Objetos com C#\DesafioSistCelular\obj\Debug\net8.0\ref\DesafioSistCelular.dll
